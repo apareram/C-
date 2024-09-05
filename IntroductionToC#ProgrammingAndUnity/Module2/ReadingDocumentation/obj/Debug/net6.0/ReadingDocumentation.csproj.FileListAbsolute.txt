@@ -1,0 +1,15 @@
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/ReadingDocumentation/obj/Debug/net6.0/ReadingDocumentation.csproj.AssemblyReference.cache
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/ReadingDocumentation/obj/Debug/net6.0/ReadingDocumentation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/ReadingDocumentation/obj/Debug/net6.0/ReadingDocumentation.AssemblyInfoInputs.cache
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/ReadingDocumentation/obj/Debug/net6.0/ReadingDocumentation.AssemblyInfo.cs
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/ReadingDocumentation/obj/Debug/net6.0/ReadingDocumentation.csproj.CoreCompileInputs.cache
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/ReadingDocumentation/bin/Debug/net6.0/ReadingDocumentation
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/ReadingDocumentation/bin/Debug/net6.0/ReadingDocumentation.deps.json
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/ReadingDocumentation/bin/Debug/net6.0/ReadingDocumentation.runtimeconfig.json
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/ReadingDocumentation/bin/Debug/net6.0/ReadingDocumentation.dll
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/ReadingDocumentation/bin/Debug/net6.0/ReadingDocumentation.pdb
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/ReadingDocumentation/obj/Debug/net6.0/ReadingDocumentation.dll
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/ReadingDocumentation/obj/Debug/net6.0/refint/ReadingDocumentation.dll
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/ReadingDocumentation/obj/Debug/net6.0/ReadingDocumentation.pdb
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/ReadingDocumentation/obj/Debug/net6.0/ReadingDocumentation.genruntimeconfig.cache
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/ReadingDocumentation/obj/Debug/net6.0/ref/ReadingDocumentation.dll
