@@ -1,0 +1,14 @@
+/Users/aparera/code/C#/Module1/FirstConsoleApp/bin/Debug/net8.0/FirstConsoleApp
+/Users/aparera/code/C#/Module1/FirstConsoleApp/bin/Debug/net8.0/FirstConsoleApp.deps.json
+/Users/aparera/code/C#/Module1/FirstConsoleApp/bin/Debug/net8.0/FirstConsoleApp.runtimeconfig.json
+/Users/aparera/code/C#/Module1/FirstConsoleApp/bin/Debug/net8.0/FirstConsoleApp.dll
+/Users/aparera/code/C#/Module1/FirstConsoleApp/bin/Debug/net8.0/FirstConsoleApp.pdb
+/Users/aparera/code/C#/Module1/FirstConsoleApp/obj/Debug/net8.0/FirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aparera/code/C#/Module1/FirstConsoleApp/obj/Debug/net8.0/FirstConsoleApp.AssemblyInfoInputs.cache
+/Users/aparera/code/C#/Module1/FirstConsoleApp/obj/Debug/net8.0/FirstConsoleApp.AssemblyInfo.cs
+/Users/aparera/code/C#/Module1/FirstConsoleApp/obj/Debug/net8.0/FirstConsoleApp.csproj.CoreCompileInputs.cache
+/Users/aparera/code/C#/Module1/FirstConsoleApp/obj/Debug/net8.0/FirstConsoleApp.dll
+/Users/aparera/code/C#/Module1/FirstConsoleApp/obj/Debug/net8.0/refint/FirstConsoleApp.dll
+/Users/aparera/code/C#/Module1/FirstConsoleApp/obj/Debug/net8.0/FirstConsoleApp.pdb
+/Users/aparera/code/C#/Module1/FirstConsoleApp/obj/Debug/net8.0/FirstConsoleApp.genruntimeconfig.cache
+/Users/aparera/code/C#/Module1/FirstConsoleApp/obj/Debug/net8.0/ref/FirstConsoleApp.dll

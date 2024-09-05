@@ -1,0 +1,15 @@
+/Users/aparera/code/C#/Module1/IntDataTypes/bin/Debug/net6.0/IntDataTypes
+/Users/aparera/code/C#/Module1/IntDataTypes/bin/Debug/net6.0/IntDataTypes.deps.json
+/Users/aparera/code/C#/Module1/IntDataTypes/bin/Debug/net6.0/IntDataTypes.runtimeconfig.json
+/Users/aparera/code/C#/Module1/IntDataTypes/bin/Debug/net6.0/IntDataTypes.dll
+/Users/aparera/code/C#/Module1/IntDataTypes/bin/Debug/net6.0/IntDataTypes.pdb
+/Users/aparera/code/C#/Module1/IntDataTypes/obj/Debug/net6.0/IntDataTypes.csproj.AssemblyReference.cache
+/Users/aparera/code/C#/Module1/IntDataTypes/obj/Debug/net6.0/IntDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aparera/code/C#/Module1/IntDataTypes/obj/Debug/net6.0/IntDataTypes.AssemblyInfoInputs.cache
+/Users/aparera/code/C#/Module1/IntDataTypes/obj/Debug/net6.0/IntDataTypes.AssemblyInfo.cs
+/Users/aparera/code/C#/Module1/IntDataTypes/obj/Debug/net6.0/IntDataTypes.csproj.CoreCompileInputs.cache
+/Users/aparera/code/C#/Module1/IntDataTypes/obj/Debug/net6.0/IntDataTypes.dll
+/Users/aparera/code/C#/Module1/IntDataTypes/obj/Debug/net6.0/refint/IntDataTypes.dll
+/Users/aparera/code/C#/Module1/IntDataTypes/obj/Debug/net6.0/IntDataTypes.pdb
+/Users/aparera/code/C#/Module1/IntDataTypes/obj/Debug/net6.0/IntDataTypes.genruntimeconfig.cache
+/Users/aparera/code/C#/Module1/IntDataTypes/obj/Debug/net6.0/ref/IntDataTypes.dll

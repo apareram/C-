@@ -1,0 +1,15 @@
+/Users/aparera/code/C#/Module1/Exercise4/bin/Debug/net6.0/Exercise4
+/Users/aparera/code/C#/Module1/Exercise4/bin/Debug/net6.0/Exercise4.deps.json
+/Users/aparera/code/C#/Module1/Exercise4/bin/Debug/net6.0/Exercise4.runtimeconfig.json
+/Users/aparera/code/C#/Module1/Exercise4/bin/Debug/net6.0/Exercise4.dll
+/Users/aparera/code/C#/Module1/Exercise4/bin/Debug/net6.0/Exercise4.pdb
+/Users/aparera/code/C#/Module1/Exercise4/obj/Debug/net6.0/Exercise4.csproj.AssemblyReference.cache
+/Users/aparera/code/C#/Module1/Exercise4/obj/Debug/net6.0/Exercise4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aparera/code/C#/Module1/Exercise4/obj/Debug/net6.0/Exercise4.AssemblyInfoInputs.cache
+/Users/aparera/code/C#/Module1/Exercise4/obj/Debug/net6.0/Exercise4.AssemblyInfo.cs
+/Users/aparera/code/C#/Module1/Exercise4/obj/Debug/net6.0/Exercise4.csproj.CoreCompileInputs.cache
+/Users/aparera/code/C#/Module1/Exercise4/obj/Debug/net6.0/Exercise4.dll
+/Users/aparera/code/C#/Module1/Exercise4/obj/Debug/net6.0/refint/Exercise4.dll
+/Users/aparera/code/C#/Module1/Exercise4/obj/Debug/net6.0/Exercise4.pdb
+/Users/aparera/code/C#/Module1/Exercise4/obj/Debug/net6.0/Exercise4.genruntimeconfig.cache
+/Users/aparera/code/C#/Module1/Exercise4/obj/Debug/net6.0/ref/Exercise4.dll

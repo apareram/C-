@@ -1,0 +1,15 @@
+/Users/aparera/code/C#/Module1/ProgrammingAssignment1/ProgrammingAssignment1/bin/Debug/net6.0/ProgrammingAssignment1
+/Users/aparera/code/C#/Module1/ProgrammingAssignment1/ProgrammingAssignment1/bin/Debug/net6.0/ProgrammingAssignment1.deps.json
+/Users/aparera/code/C#/Module1/ProgrammingAssignment1/ProgrammingAssignment1/bin/Debug/net6.0/ProgrammingAssignment1.runtimeconfig.json
+/Users/aparera/code/C#/Module1/ProgrammingAssignment1/ProgrammingAssignment1/bin/Debug/net6.0/ProgrammingAssignment1.dll
+/Users/aparera/code/C#/Module1/ProgrammingAssignment1/ProgrammingAssignment1/bin/Debug/net6.0/ProgrammingAssignment1.pdb
+/Users/aparera/code/C#/Module1/ProgrammingAssignment1/ProgrammingAssignment1/obj/Debug/net6.0/ProgrammingAssignment1.csproj.AssemblyReference.cache
+/Users/aparera/code/C#/Module1/ProgrammingAssignment1/ProgrammingAssignment1/obj/Debug/net6.0/ProgrammingAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aparera/code/C#/Module1/ProgrammingAssignment1/ProgrammingAssignment1/obj/Debug/net6.0/ProgrammingAssignment1.AssemblyInfoInputs.cache
+/Users/aparera/code/C#/Module1/ProgrammingAssignment1/ProgrammingAssignment1/obj/Debug/net6.0/ProgrammingAssignment1.AssemblyInfo.cs
+/Users/aparera/code/C#/Module1/ProgrammingAssignment1/ProgrammingAssignment1/obj/Debug/net6.0/ProgrammingAssignment1.csproj.CoreCompileInputs.cache
+/Users/aparera/code/C#/Module1/ProgrammingAssignment1/ProgrammingAssignment1/obj/Debug/net6.0/ProgrammingAssignment1.dll
+/Users/aparera/code/C#/Module1/ProgrammingAssignment1/ProgrammingAssignment1/obj/Debug/net6.0/refint/ProgrammingAssignment1.dll
+/Users/aparera/code/C#/Module1/ProgrammingAssignment1/ProgrammingAssignment1/obj/Debug/net6.0/ProgrammingAssignment1.pdb
+/Users/aparera/code/C#/Module1/ProgrammingAssignment1/ProgrammingAssignment1/obj/Debug/net6.0/ProgrammingAssignment1.genruntimeconfig.cache
+/Users/aparera/code/C#/Module1/ProgrammingAssignment1/ProgrammingAssignment1/obj/Debug/net6.0/ref/ProgrammingAssignment1.dll
