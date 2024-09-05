@@ -1,0 +1,15 @@
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/FloatingPointDataType/bin/Debug/net6.0/FloatingPointDataType
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/FloatingPointDataType/bin/Debug/net6.0/FloatingPointDataType.deps.json
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/FloatingPointDataType/bin/Debug/net6.0/FloatingPointDataType.runtimeconfig.json
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/FloatingPointDataType/bin/Debug/net6.0/FloatingPointDataType.dll
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/FloatingPointDataType/bin/Debug/net6.0/FloatingPointDataType.pdb
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/FloatingPointDataType/obj/Debug/net6.0/FloatingPointDataType.csproj.AssemblyReference.cache
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/FloatingPointDataType/obj/Debug/net6.0/FloatingPointDataType.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/FloatingPointDataType/obj/Debug/net6.0/FloatingPointDataType.AssemblyInfoInputs.cache
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/FloatingPointDataType/obj/Debug/net6.0/FloatingPointDataType.AssemblyInfo.cs
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/FloatingPointDataType/obj/Debug/net6.0/FloatingPointDataType.csproj.CoreCompileInputs.cache
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/FloatingPointDataType/obj/Debug/net6.0/FloatingPointDataType.dll
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/FloatingPointDataType/obj/Debug/net6.0/refint/FloatingPointDataType.dll
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/FloatingPointDataType/obj/Debug/net6.0/FloatingPointDataType.pdb
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/FloatingPointDataType/obj/Debug/net6.0/FloatingPointDataType.genruntimeconfig.cache
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/FloatingPointDataType/obj/Debug/net6.0/ref/FloatingPointDataType.dll
