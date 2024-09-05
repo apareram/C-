@@ -1,0 +1,15 @@
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/ProgrammingAssignment2/ProgrammingAssignment2/bin/Debug/net6.0/ProgrammingAssignment2
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/ProgrammingAssignment2/ProgrammingAssignment2/bin/Debug/net6.0/ProgrammingAssignment2.deps.json
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/ProgrammingAssignment2/ProgrammingAssignment2/bin/Debug/net6.0/ProgrammingAssignment2.runtimeconfig.json
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/ProgrammingAssignment2/ProgrammingAssignment2/bin/Debug/net6.0/ProgrammingAssignment2.dll
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/ProgrammingAssignment2/ProgrammingAssignment2/bin/Debug/net6.0/ProgrammingAssignment2.pdb
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/ProgrammingAssignment2/ProgrammingAssignment2/obj/Debug/net6.0/ProgrammingAssignment2.csproj.AssemblyReference.cache
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/ProgrammingAssignment2/ProgrammingAssignment2/obj/Debug/net6.0/ProgrammingAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/ProgrammingAssignment2/ProgrammingAssignment2/obj/Debug/net6.0/ProgrammingAssignment2.AssemblyInfoInputs.cache
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/ProgrammingAssignment2/ProgrammingAssignment2/obj/Debug/net6.0/ProgrammingAssignment2.AssemblyInfo.cs
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/ProgrammingAssignment2/ProgrammingAssignment2/obj/Debug/net6.0/ProgrammingAssignment2.csproj.CoreCompileInputs.cache
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/ProgrammingAssignment2/ProgrammingAssignment2/obj/Debug/net6.0/ProgrammingAssignment2.dll
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/ProgrammingAssignment2/ProgrammingAssignment2/obj/Debug/net6.0/refint/ProgrammingAssignment2.dll
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/ProgrammingAssignment2/ProgrammingAssignment2/obj/Debug/net6.0/ProgrammingAssignment2.pdb
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/ProgrammingAssignment2/ProgrammingAssignment2/obj/Debug/net6.0/ProgrammingAssignment2.genruntimeconfig.cache
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module2/ProgrammingAssignment2/ProgrammingAssignment2/obj/Debug/net6.0/ref/ProgrammingAssignment2.dll
