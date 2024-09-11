@@ -1,0 +1,15 @@
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module3/Exercise8/obj/Debug/net6.0/Exercise8.csproj.AssemblyReference.cache
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module3/Exercise8/obj/Debug/net6.0/Exercise8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module3/Exercise8/obj/Debug/net6.0/Exercise8.AssemblyInfoInputs.cache
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module3/Exercise8/obj/Debug/net6.0/Exercise8.AssemblyInfo.cs
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module3/Exercise8/obj/Debug/net6.0/Exercise8.csproj.CoreCompileInputs.cache
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module3/Exercise8/bin/Debug/net6.0/Exercise8
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module3/Exercise8/bin/Debug/net6.0/Exercise8.deps.json
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module3/Exercise8/bin/Debug/net6.0/Exercise8.runtimeconfig.json
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module3/Exercise8/bin/Debug/net6.0/Exercise8.dll
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module3/Exercise8/bin/Debug/net6.0/Exercise8.pdb
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module3/Exercise8/obj/Debug/net6.0/Exercise8.dll
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module3/Exercise8/obj/Debug/net6.0/refint/Exercise8.dll
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module3/Exercise8/obj/Debug/net6.0/Exercise8.pdb
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module3/Exercise8/obj/Debug/net6.0/Exercise8.genruntimeconfig.cache
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module3/Exercise8/obj/Debug/net6.0/ref/Exercise8.dll
