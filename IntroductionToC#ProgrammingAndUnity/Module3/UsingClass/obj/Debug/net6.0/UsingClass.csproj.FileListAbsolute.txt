@@ -1,0 +1,15 @@
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module3/UsingClass/bin/Debug/net6.0/UsingClass
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module3/UsingClass/bin/Debug/net6.0/UsingClass.deps.json
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module3/UsingClass/bin/Debug/net6.0/UsingClass.runtimeconfig.json
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module3/UsingClass/bin/Debug/net6.0/UsingClass.dll
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module3/UsingClass/bin/Debug/net6.0/UsingClass.pdb
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module3/UsingClass/obj/Debug/net6.0/UsingClass.csproj.AssemblyReference.cache
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module3/UsingClass/obj/Debug/net6.0/UsingClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module3/UsingClass/obj/Debug/net6.0/UsingClass.AssemblyInfoInputs.cache
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module3/UsingClass/obj/Debug/net6.0/UsingClass.AssemblyInfo.cs
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module3/UsingClass/obj/Debug/net6.0/UsingClass.csproj.CoreCompileInputs.cache
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module3/UsingClass/obj/Debug/net6.0/UsingClass.dll
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module3/UsingClass/obj/Debug/net6.0/refint/UsingClass.dll
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module3/UsingClass/obj/Debug/net6.0/UsingClass.pdb
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module3/UsingClass/obj/Debug/net6.0/UsingClass.genruntimeconfig.cache
+/Users/aparera/code/C#/IntroductionToC#ProgrammingAndUnity/Module3/UsingClass/obj/Debug/net6.0/ref/UsingClass.dll
