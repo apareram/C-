@@ -12,7 +12,12 @@ namespace UsingDeckClass{
         static void Main(string[] args){
             // declare and print a deck of cards
             Deck deck = new Deck();
-            deck.Print();
+            // deck.Print();
+
+            // acsses and print empty property
+            // bool isEmpty = deck.Empty;
+            // Console.WriteLine("Deck empty: " + isEmpty);
+            Console.WriteLine("Deck empty: " + deck.Empty);
         }
     }
 }
