@@ -1,0 +1,15 @@
+/Users/aparera/code/C#/MoreC#ProgrammingAndUnity/Module1/Exercise2/Exercise2/bin/Debug/net6.0/Exercise2
+/Users/aparera/code/C#/MoreC#ProgrammingAndUnity/Module1/Exercise2/Exercise2/bin/Debug/net6.0/Exercise2.deps.json
+/Users/aparera/code/C#/MoreC#ProgrammingAndUnity/Module1/Exercise2/Exercise2/bin/Debug/net6.0/Exercise2.runtimeconfig.json
+/Users/aparera/code/C#/MoreC#ProgrammingAndUnity/Module1/Exercise2/Exercise2/bin/Debug/net6.0/Exercise2.dll
+/Users/aparera/code/C#/MoreC#ProgrammingAndUnity/Module1/Exercise2/Exercise2/bin/Debug/net6.0/Exercise2.pdb
+/Users/aparera/code/C#/MoreC#ProgrammingAndUnity/Module1/Exercise2/Exercise2/obj/Debug/net6.0/Exercise2.csproj.AssemblyReference.cache
+/Users/aparera/code/C#/MoreC#ProgrammingAndUnity/Module1/Exercise2/Exercise2/obj/Debug/net6.0/Exercise2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aparera/code/C#/MoreC#ProgrammingAndUnity/Module1/Exercise2/Exercise2/obj/Debug/net6.0/Exercise2.AssemblyInfoInputs.cache
+/Users/aparera/code/C#/MoreC#ProgrammingAndUnity/Module1/Exercise2/Exercise2/obj/Debug/net6.0/Exercise2.AssemblyInfo.cs
+/Users/aparera/code/C#/MoreC#ProgrammingAndUnity/Module1/Exercise2/Exercise2/obj/Debug/net6.0/Exercise2.csproj.CoreCompileInputs.cache
+/Users/aparera/code/C#/MoreC#ProgrammingAndUnity/Module1/Exercise2/Exercise2/obj/Debug/net6.0/Exercise2.dll
+/Users/aparera/code/C#/MoreC#ProgrammingAndUnity/Module1/Exercise2/Exercise2/obj/Debug/net6.0/refint/Exercise2.dll
+/Users/aparera/code/C#/MoreC#ProgrammingAndUnity/Module1/Exercise2/Exercise2/obj/Debug/net6.0/Exercise2.pdb
+/Users/aparera/code/C#/MoreC#ProgrammingAndUnity/Module1/Exercise2/Exercise2/obj/Debug/net6.0/Exercise2.genruntimeconfig.cache
+/Users/aparera/code/C#/MoreC#ProgrammingAndUnity/Module1/Exercise2/Exercise2/obj/Debug/net6.0/ref/Exercise2.dll

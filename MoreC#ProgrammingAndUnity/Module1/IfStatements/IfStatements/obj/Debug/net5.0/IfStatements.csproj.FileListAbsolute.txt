@@ -1,0 +1,16 @@
+C:\Users\timch\source\repos\IfStatements\IfStatements\bin\Debug\net5.0\IfStatements.exe
+C:\Users\timch\source\repos\IfStatements\IfStatements\bin\Debug\net5.0\IfStatements.deps.json
+C:\Users\timch\source\repos\IfStatements\IfStatements\bin\Debug\net5.0\IfStatements.runtimeconfig.json
+C:\Users\timch\source\repos\IfStatements\IfStatements\bin\Debug\net5.0\IfStatements.runtimeconfig.dev.json
+C:\Users\timch\source\repos\IfStatements\IfStatements\bin\Debug\net5.0\IfStatements.dll
+C:\Users\timch\source\repos\IfStatements\IfStatements\bin\Debug\net5.0\IfStatements.pdb
+C:\Users\timch\source\repos\IfStatements\IfStatements\obj\Debug\net5.0\IfStatements.csproj.AssemblyReference.cache
+C:\Users\timch\source\repos\IfStatements\IfStatements\obj\Debug\net5.0\IfStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timch\source\repos\IfStatements\IfStatements\obj\Debug\net5.0\IfStatements.AssemblyInfoInputs.cache
+C:\Users\timch\source\repos\IfStatements\IfStatements\obj\Debug\net5.0\IfStatements.AssemblyInfo.cs
+C:\Users\timch\source\repos\IfStatements\IfStatements\obj\Debug\net5.0\IfStatements.csproj.CoreCompileInputs.cache
+C:\Users\timch\source\repos\IfStatements\IfStatements\obj\Debug\net5.0\IfStatements.dll
+C:\Users\timch\source\repos\IfStatements\IfStatements\obj\Debug\net5.0\refint\IfStatements.dll
+C:\Users\timch\source\repos\IfStatements\IfStatements\obj\Debug\net5.0\IfStatements.pdb
+C:\Users\timch\source\repos\IfStatements\IfStatements\obj\Debug\net5.0\IfStatements.genruntimeconfig.cache
+C:\Users\timch\source\repos\IfStatements\IfStatements\obj\Debug\net5.0\ref\IfStatements.dll
